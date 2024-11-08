@@ -1,0 +1,10 @@
+Pikachu,35,Thunderbolt,90,100
+Charmander,39,Flamethrower,95,100
+Bulbasaur,45,Vine Whip,45,60
+Squirtle,44,Water Gun,40,90
+Jigglypuff,115,Body Slam,85,45
+Eevee,55,Quick Attack,40,100
+Snorlax,160,Hyper Beam,150,50
+Charizard,78,Fire Blast,110,85
+Gengar,60,Shadow Ball,80,90
+Mewtwo,106,Psychic,90,130
